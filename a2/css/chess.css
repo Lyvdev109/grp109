@@ -19,7 +19,7 @@ body {
  left:0px; 
  padding:10px;
  margin:0px;
- width:100%;
+ width:100% auto;
  background-color:lightyellow;
  text-align:center; 
  z-index:10;

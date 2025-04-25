@@ -76,5 +76,5 @@ img {
  background-color: blue;
  width: 100%;
  text-align:center;
- position: absolute; bottom 0; width:100%;
+ position: fixed; bottom 0; width:100%;
 }

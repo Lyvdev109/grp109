@@ -4,11 +4,15 @@ body {
 
  #container {
  margin-top:20%;
- margin-left:12%;
+ margin-left:10%;
  margin-right:10%;
  margin-bottom:5%;
 }
-    
+
+#container2 {
+ margin: 0 auto
+}
+
 #title {
  position:fixed;
  top:0px;

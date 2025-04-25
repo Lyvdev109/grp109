@@ -19,3 +19,13 @@
  background-color:#787878;
  float:left;
 }
+
+p {
+  font-family: 'JustLettersMedium';
+  font-weight: normal;
+  font-style: normal;
+}
+img {
+ margin-left: 5px;
+ margin-top:10px;
+ }

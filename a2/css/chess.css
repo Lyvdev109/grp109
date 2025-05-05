@@ -71,6 +71,13 @@ img {
   height: 0;
 } 
 
+header{
+ margin-bottom: 15px;
+ text-align: centered;
+ background-color: blue;
+ width: 100%;
+}
+
 #footer {
     border: solid 1px;
             padding: 10px;
